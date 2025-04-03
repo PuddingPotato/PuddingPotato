@@ -68,7 +68,7 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 ## 🔗 **Connect with Me**
 
 - 💼 **LinkedIn**: [Phattaraphol Unkamenrd](www.linkedin.com/in/phee-phattaraphol)
-- 🧑‍💻 **GitHub**: [Phee Phattaraphol](https://github.com/PuddingPotato)
+- 🧑‍💻 **GitHub**: [Phee Phattaraphol(PuddingPotato)](https://github.com/PuddingPotato)
 - 📘 **Facebook**: [Phee Phattaraphol](https://www.facebook.com/phee.phattaraphol)
 - 📸 **Instagram**: [p.phttrphl](https://www.instagram.com/p.phttrphl/)
 ---
