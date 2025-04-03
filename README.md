@@ -72,7 +72,7 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 
 ## 📍 **Contact Information**
 
-**Location:** 44/86 Ramintra 34 St., Bangkok, 10230, Thailand
+**Location:** 44/86 Ramintra 34 St., Bangkok, 10230, Thailand  
 **Phone:** 090-985-1712  
 **Email:** [phattaraphol.phee@gmail.com](mailto:phattaraphol.phee@gmail.com)
 
