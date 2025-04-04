@@ -43,7 +43,7 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 - **SQL**  
 - **DAX**  
 - **Basic HTML**  
-- **Pine Script**
+- **Basic Pine Script**
 
 ---
 
