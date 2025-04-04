@@ -42,7 +42,7 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 - **R**  
 - **SQL**  
 - **DAX**  
-- **HTML**  
+- **Basic HTML**  
 - **Pine Script**
 
 ---
@@ -78,4 +78,20 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 
 ---
 
-Feel free to explore my repositories and get in touch if you're interested in collaborating or learning more about my work!
+---
+
+## 🚀 Career Interests
+
+💼 I’m actively seeking **full-time positions** in:  
+- **Data Scientist**  
+- **Machine Learning Engineer**  
+- **AI Engineer**  
+- Or any related/adjacent roles in the AI/ML domain
+
+I'm passionate about applying my skills in real-world projects and contributing to innovative teams.
+
+---
+
+Feel free to explore my repositories and get in touch  
+if you're interested in collaborating or learning more about my work!  
+👉 [https://github.com/PuddingPotato?tab=repositories](https://github.com/PuddingPotato?tab=repositories)
