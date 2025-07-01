@@ -33,6 +33,7 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 - **Tableau**  
 - **MongoDB**  
 - **Microsoft Azure** (Document Intelligences, Synapse)
+- **n8n**
 
 ---
 
