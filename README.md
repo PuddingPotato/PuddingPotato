@@ -41,7 +41,8 @@ As a Data Science student at **Silpakorn University**, I have a strong foundatio
 
 - **Python**  
 - **R**  
-- **SQL**  
+- **SQL**
+- **C#**  
 - **DAX**  
 - **Basic HTML**  
 - **Basic Pine Script**
